@@ -1,0 +1,8 @@
+id=1,customerId=1,status=PENDING,dateTime=2024-12-20T19:35:16.4401437,totalAmount=21.00,deliveryAddress=cairo
+id=2,customerId=1,status=CONFIRMED,dateTime=2024-12-20T19:35:39.5213647,totalAmount=21.00,deliveryAddress=cairo
+id=3,customerId=1,status=PENDING,dateTime=2024-12-20T22:34:50.0453105,totalAmount=110.00,deliveryAddress=cairo
+id=4,customerId=1,status=CANCELLED,dateTime=2024-12-20T23:28:55.2463368,totalAmount=55.00,deliveryAddress=sheraton
+id=5,customerId=1,status=CANCELLED,dateTime=2024-12-20T23:29:19.208339,totalAmount=11.00,deliveryAddress=gggg
+id=6,customerId=1,status=PENDING,dateTime=2024-12-21T01:33:15.7250213,totalAmount=11.00,deliveryAddress=ddd
+id=7,customerId=1,status=PENDING,dateTime=2024-12-21T01:34:11.6462844,totalAmount=55.00,deliveryAddress=hhh
+id=8,customerId=1,status=PENDING,dateTime=2024-12-21T01:34:39.8288582,totalAmount=11.00,deliveryAddress=ggjj
